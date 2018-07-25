@@ -1,4 +1,4 @@
-// The purpose of the prject is to have a potentiometer control the position of a servo motor. 
+// The purpose of the project is to have a potentiometer control the position of a servo motor. 
 //The servo motor contains a scale from (0 to 180 degrees) and the potentiometer contains a scale from (0 to 1023 units). 
 #include<Servo.h> //Servo library is activated. 
 Servo y; //y is a servo variable to activate the servo motor. 
